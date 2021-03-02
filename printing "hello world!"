@@ -1,0 +1,4 @@
+#this line of code writen below is used to print "HELLO WORLD!" as output on the screen
+#"print" function is used to print output of a particular code on the screen
+
+print("HELLO WORLD!")
